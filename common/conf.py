@@ -25,7 +25,7 @@ extlinks = {
     'wikipedia': ('http://en.wikipedia.org/wiki/%s', 'Wikipedia article '),
     'arxiv': ('http://arxiv.org/abs/%s', 'Arxiv '),
     'oeis': ('http://oeis.org/%s', 'OEIS sequence '),
-    'doi': ('http://dx.doi.org/%s', 'doi:'),
+    'doi': ('https://doi.org/%s', 'doi:'),
     'mathscinet': ('http://www.ams.org/mathscinet-getitem?mr=%s', 'MathSciNet ')
     }
 html_theme = 'sage'
